@@ -1,5 +1,5 @@
-![header](https://github.com/sriram-24/sriram-24/blob/master/profile%20assets/header.png)
-### Hey there, I'm [Sriram!](https://github.com/sriram-24):bowtie:
+
+### <div align='center'>Hey there, I'm [Sriram!](https://github.com/sriram-24):bowtie:</div>
 <a href="https://www.linkedin.com/in/sriram-m-360560151/">
   <img align="left" alt="Sriram's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
