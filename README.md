@@ -11,8 +11,9 @@
 
 <br />
 <br />
-I am a software developer, I like to learn new things and improve my skills on programming:heart:
-
+I am a software developer, I'm interested in learning new things and improve my skills on programming:heart:. I spend my free time by listening music:musical_score: and playing games:video_game:
+<br />
+<br />
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on [Carrerside](https://github.com/sriram-24/Careerside/)
