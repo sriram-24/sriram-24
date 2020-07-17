@@ -1,4 +1,3 @@
-
 ### <div align='center'>Hey there, I'm [Sriram!](https://github.com/sriram-24):bowtie:</div>
 <a href="https://www.linkedin.com/in/sriram-m-360560151/">
   <img align="left" alt="Sriram's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -12,3 +11,12 @@
 
 <br />
 <br />
+I am a software developer, I like to learn new things and improve my skills on programming:heart:
+
+**Talking about Personal Stuffs:**
+
+- 👨🏽‍💻 I’m currently working on [Carrerside](https://github.com/sriram-24/Careerside/)
+- 🌱 I’m currently learning React and ExpressJS
+- 🤔 I’m looking for help with Data Structures and Algorithms 
+- 💬 Ask me about anything, I am happy to help
+- 📫 Mail me: sriram1999m@gmail.com
