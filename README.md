@@ -11,13 +11,13 @@
 
 <br />
 <br />
-I am a software developer, I'm interested in learning new things and improve my skills on programming:heart:. I spend my free time by listening music:musical_score: and playing games:video_game:
+I am a software developer, I'm interested in learning new things and improve my skills on programming:heart:. I spend my free time by listening music:musical_score: and playing games:video_game:. I like to collaborate on projects and work as a team.
 <br />
 <br />
+
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on [Carrerside](https://github.com/sriram-24/Careerside/)
 - 🌱 I’m currently learning React and ExpressJS
 - 🤔 I’m looking for help with Data Structures and Algorithms 
-- 💬 Ask me about anything, I am happy to help
 - 📫 Mail me: sriram1999m@gmail.com
