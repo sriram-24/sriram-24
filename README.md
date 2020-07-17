@@ -23,3 +23,6 @@ I am a software developer, I'm interested in learning new things and improve my 
 - 🌱 I’m currently learning React and ExpressJS
 - 🤔 I’m looking for help with Data Structures and Algorithms 
 - 📫 Mail me: [sriram1999m@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=sriram1999m@gmail.com)
+
+![Sriram's github stats](https://github-readme-stats.vercel.app/api?username=sriram-24&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+<br />
