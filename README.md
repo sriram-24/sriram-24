@@ -1,4 +1,9 @@
 ### <div align='center'>Hey there, I'm [Sriram!](https://github.com/sriram-24):bowtie:</div>
+
+I am a software developer, I'm interested in learning new things and improve my skills on programming:heart:. I spend my free time by listening music:musical_score: and playing games:video_game:. I like to collaborate on projects and work as a team.
+<br />
+<br />
+#### Follow me on:
 <a href="https://www.linkedin.com/in/sriram-m-360560151/">
   <img align="left" alt="Sriram's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -9,9 +14,6 @@
   <img align="left" alt="Sriram's codepen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codepen.svg" />
 </a>
 
-<br />
-<br />
-I am a software developer, I'm interested in learning new things and improve my skills on programming:heart:. I spend my free time by listening music:musical_score: and playing games:video_game:. I like to collaborate on projects and work as a team.
 <br />
 <br />
 
