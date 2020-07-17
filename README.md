@@ -20,4 +20,4 @@ I am a software developer, I'm interested in learning new things and improve my 
 - 👨🏽‍💻 I’m currently working on [Carrerside](https://github.com/sriram-24/Careerside/)
 - 🌱 I’m currently learning React and ExpressJS
 - 🤔 I’m looking for help with Data Structures and Algorithms 
-- 📫 Mail me: sriram1999m@gmail.com
+- 📫 Mail me: [sriram1999m@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=sriram1999m@gmail.com)
