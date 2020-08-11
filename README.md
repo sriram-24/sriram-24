@@ -20,7 +20,7 @@ I am a software developer, I'm interested in learning new things and improve my 
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on [Carrerside](https://github.com/sriram-24/Careerside/)
-- 🌱 I’m currently learning AngularJS.
+- 🌱 I’m currently learning ReactJS.
 - 🤔 I’m looking for help with Data Structures and Algorithms 
 - 📫 Mail me: [sriram1999m@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=sriram1999m@gmail.com)
 
