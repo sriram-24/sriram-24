@@ -20,8 +20,9 @@ I am a software developer, I'm interested in learning new things and improve my 
 **Skills**
 
 <img align="left" src="https://raw.githubusercontent.com/sriram-24/sriram-24/master/profile%20assets/Language/HTML.svg" height="50" width="50" />
-<img align="left" src="https://raw.githubusercontent.com/sriram-24/sriram-24/master/profile%20assets/Language/mongodb.svg" height="50" width="50" />
+<img align="left" src="https://raw.githubusercontent.com/sriram-24/sriram-24/master/profile%20assets/Language/css.svg" height="50" width="50" />
 <img align="left" src="https://raw.githubusercontent.com/sriram-24/sriram-24/master/profile%20assets/Language/python.svg" height="50" width="50" />
+<img align="left" src="https://raw.githubusercontent.com/sriram-24/sriram-24/master/profile%20assets/Language/mongodb.svg" height="50" width="50" />
 <img align="left" src="https://raw.githubusercontent.com/sriram-24/sriram-24/master/profile%20assets/Language/react.svg" height="50" width="50" />
 <br />
 <br />
