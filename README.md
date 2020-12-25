@@ -22,9 +22,9 @@ I am a software developer, I'm interested in learning new things and improve my 
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on [Carrerside](https://github.com/sriram-24/Careerside/)
+- 👨🏽‍💻 I’m currently working on [SmallBusinessApp](https://github.com/sriram-24/SmallBusinessApp)
 - 🌱 I’m currently learning ReactJS.
-- 🤔 I’m looking for help with Data Structures and Algorithms 
+- 🤔 I’m looking for help with Data Structures and Algorithms.
 - 📫 Mail me: [sriram1999m@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=sriram1999m@gmail.com)
 
 ![Sriram's github stats](https://github-readme-stats.vercel.app/api?username=sriram-24&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
