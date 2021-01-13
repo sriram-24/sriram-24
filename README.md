@@ -1,6 +1,6 @@
 ### <div align='center'>Hey there, I'm [Sriram!](https://github.com/sriram-24):bowtie:</div>
 
-I am a software developer, I'm interested in learning new things and improve my skills on programming:heart:. I spend my free time by listening music:musical_score: and playing games:video_game:. I like to collaborate on projects and work as a team.
+I am a developer, I'm interested in learning new things and improve my skills on programming:heart:. I spend my free time by listening music:musical_score: and playing games:video_game:. I like to collaborate on projects and work as a team. 
 <br /><br />
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=sriram-24.sriram-24)
 <br />
@@ -23,7 +23,7 @@ I am a software developer, I'm interested in learning new things and improve my 
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on [SmallBusinessApp](https://github.com/sriram-24/SmallBusinessApp)
-- 🌱 I’m currently learning ReactJS.
+- 🌱 I’m currently learning ReactNative.
 - 🤔 I’m looking for help with Data Structures and Algorithms.
 - 📫 Mail me: [sriram1999m@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=sriram1999m@gmail.com)
 
