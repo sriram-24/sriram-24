@@ -6,13 +6,13 @@ I am a developer, I'm interested in learning new things and improve my skills on
 <br />
 #### Follow me on:
 <a href="https://www.linkedin.com/in/sriram-m-360560151/">
-  <img align="left" alt="Sriram's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Sriram's LinkdeIN" width="22px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" />
 </a>
 <a href="https://www.instagram.com/the_kings._.man_/">
-  <img align="left" alt="Sriram's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Sriram's Instagram" width="22px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg" />
 </a>
 <a href="https://www.codepen.io/sriram-24">
-  <img align="left" alt="Sriram's codepen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codepen.svg" />
+  <img align="left" alt="Sriram's codepen" width="22px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Codeopen.svg" />
 </a>
 
 <br />
