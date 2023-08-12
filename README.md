@@ -22,7 +22,7 @@ I am a developer, I'm interested in learning new things and improve my skills on
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on [practice application](https://github.com/sriram-24/PracticeApplication).
+- 👨🏽‍💻 I’m currently working on [noteappandroid](https://github.com/sriram-24/noteappandroid).
 - 🌱 I’m currently learning Kotlin.
 - 🤔 I’m looking for help with Data Structures and Algorithms.
 - 📫 Mail me: [sriram1999m@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=sriram1999m@gmail.com)
