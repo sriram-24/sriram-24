@@ -5,7 +5,7 @@ I am a developer, I'm interested in learning new things and improve my skills on
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=sriram-24.sriram-24)
 <br />
 #### Follow me on:
-<a href="https://www.linkedin.com/in/sriram-m-360560151/">
+<a href="https://www.linkedin.com/">
   <img align="left" alt="Sriram's LinkdeIN" width="22px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" />
 </a>
 <a href="https://www.instagram.com/the_kings._.man_/">
