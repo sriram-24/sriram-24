@@ -18,8 +18,6 @@ I am a developer, I'm interested in learning new things and improve my skills on
 <br />
 <br />
 
-
-
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on [next-note-app](https://github.com/sriram-24/next-note-app).
