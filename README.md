@@ -20,7 +20,7 @@ I am a developer, I'm interested in learning new things and improve my skills on
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on [portfolio]([https://github.com/sriram-24/next-note-app](https://github.com/sriram-24/portfolio)).
+- 👨🏽‍💻 I’m currently working on [portfolio](https://github.com/sriram-24/portfolio).
 - 🌱 I’m currently learning Web development.
 - 🤔 I’m looking for help with Data Structures and Algorithms.
 - 📫 Mail me: [sriram1999m@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=sriram1999m@gmail.com)
