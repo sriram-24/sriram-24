@@ -1,9 +1,7 @@
 ### <div align='center'>Hey there, I'm [Sriram!](https://github.com/sriram-24) :bowtie: </div>
 
 I am a developer, I'm interested in learning new things and improve my skills on programming :heart: . I spend my free time by listening music:musical_score: and playing games:video_game:. I like to collaborate on projects and work as a team. 
-<br /><br />
 
-<br />
 #### Follow me on:
 <a href="https://www.linkedin.com/">
   <img align="left" alt="Sriram's LinkdeIN" width="22px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" />
