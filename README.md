@@ -2,7 +2,9 @@
 
 I am a developer, I'm interested in learning new things and improve my skills on programming :heart: . I spend my free time by listening music:musical_score: and playing games:video_game:. I like to collaborate on projects and work as a team. 
 <br /><br />
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=sriram-24.sriram-24)
+
 <br />
 #### Follow me on:
 <a href="https://www.linkedin.com/">
